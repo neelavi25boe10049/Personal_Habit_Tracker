@@ -47,6 +47,13 @@ PersonalHabitTracker/
 * ├── /screenshots
 * └── /recordings
 
+## 📌Screenshots
+![1](https://github.com/user-attachments/assets/2a6ee4d0-b740-40c6-b110-f44794ede9fd)
+![2](https://github.com/user-attachments/assets/ea59b95f-f167-4cc9-995e-8db1596cf4ad)
+![3](https://github.com/user-attachments/assets/e63f96a9-a10c-4ca4-ae81-700b52b26497)
+![4](https://github.com/user-attachments/assets/87237d45-5a03-4357-8dd5-62d0c9077eb8)
+![5](https://github.com/user-attachments/assets/2d3b33fa-9d06-4f78-a5d6-7516f00983a3)
+
 ## 📌Author
 (Neelavi Bhattacharjee)
 (25BOE10049)
