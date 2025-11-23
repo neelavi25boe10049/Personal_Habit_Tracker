@@ -1,4 +1,4 @@
-# Personal Habit Tracker – Introduction to Programming Project
+# Personal Habit Tracker – FUNDAMENTAL AI and ML
 
 ## 📌Overview
 Personal Habit Tracker helps users record simple daily/weekly habits, mark them done,
